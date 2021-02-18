@@ -1,0 +1,24 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Sep 10 16:04:00 2020
+
+@author: ray
+"""
+
+print("Welcome to You Wayne Singature Music Hub")
+print("A song will be recommended based on your current mood.")
+print("Tell me your current mood(Happy, Angry, Sad, Relax, Inlove):")
+do = input(":: ")
+if do == "Happy":
+    print("Try listening: Pharrell Williams - Happy")
+if do == "Angry":
+    print("Try listening: Eminem - The Way I Am")
+if do == "Sad":
+    print("Try listening: Katy Perry - Fireworks")
+if do == "Relax":
+    print("Try listening: Calvin Harris - Summer")
+if do == "Inlove":
+    print("Try listening: Martin Garrix & Bebe Rexha - In The Name Of Love")
+else:
+    print("Try listening: Ｚedd - Middle")
