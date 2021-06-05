@@ -6,8 +6,8 @@ Created on Wed Aug 26 17:14:00 2020
 @author: ray
 """
 
-#import the stock price index of tsmc between 2000~2019 and do stock price forecast.
-# Importing the libraries
+#Import the stock price index of tsmc between 2000~2019 and do stock price forecast.
+#Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
